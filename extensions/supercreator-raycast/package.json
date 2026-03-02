@@ -5,6 +5,7 @@
   "description": "Quick search for workspaces, creators, and accounts. Impersonate users, copy IDs, and manage account comments.",
   "icon": "extension-icon.png",
   "author": "ashley_majar",
+  "access": "private",
   "platforms": [
     "macOS",
     "Windows"
